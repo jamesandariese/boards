@@ -13,3 +13,4 @@ A few listings of the board. *if you want to add more, ask to be a contributor a
 
 Interestingly, the boards all have slightly different silk screen and different "part numbers" on the bottom in the center. Examples N-MOS, Z-MOS, XY-MOS
 
+Additionally, the board may be seen simulated at [Falstad.com Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBsBmALAJhQdgWgJwAcYKCFICxVVkAUAE4gY1YIogC0rI7nkZAwBm4XJzKCsWDOBSDCE6EjS56ZLHw4g0kWfx0JNmgCYBTYQEMArgBsALl1tmT4KO5iQw9UYrmCwDFlJED8wZR01Zl40IxY2bQD4OCYtTgMDXVkA4hSAd3jDTUDZWM0GAr8DMPkoegKwcX8xdMT68CCWjtK4ir4ZLuke8vaSov7huoKh8cze9t5q1oF2qu1G5anB7Qy26YGxmbAwEYbOsYuTrcvjA6u+o6uy8Hv2rLluXjI6gDduDfGXAB30EggwASQoKgynaQKazxi8wKcIknB4NBBqWe32x93A9AAMp8EmjjsZEm4rLYAM5mWgMVSCd44uLfCCg+hAA)
